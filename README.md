@@ -96,4 +96,4 @@ Usage
 Start the server: npm start
 Open a new terminal and navigate to the client directory: cd client
 Start the React development server: npm start
-Access the application in your browser at [http://localhost](http://localhost:3000)
+Access the application in your browser at [http://localhost:3000](http://localhost:3000)
